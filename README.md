@@ -47,12 +47,12 @@ Para executar este projeto em seu ambiente de desenvolvimento, siga os passos ab
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO_AQUI]
+    git clone https://github.com/Vitrokes/app-planejei-tcc.git
     ```
 
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd app-planejei
+    cd app-planejei-tcc
     ```
 
 3.  **Instale as dependências:**
@@ -68,4 +68,4 @@ Para executar este projeto em seu ambiente de desenvolvimento, siga os passos ab
 
 ## 📁 Estrutura de Pastas
 
-O projeto segue a estrutura padrão recomendada para aplicações Vue.js, com uma clara separação de responsabilidades:
+O projeto segue a estrutura padrão recomendada para aplicações Vue.js, com uma clara separação de responsabilidades.
