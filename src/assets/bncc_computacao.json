@@ -1,0 +1,134 @@
+[
+  {
+    "Id": "1",
+    "Eixo": "Pensamento Computacional",
+    "CódigoHabilidade": "EF69CO01",
+    "Habilidade": "Classificar informações, agrupando-as em coleções (conjuntos) e associando cada coleção a um ‘tipo de dado’.",
+    "Objetivo da habilidade": "Construir e analisar soluções computacionais de problemas de diferentes áreas do conhecimento, de forma individual ou colaborativa, selecionando as estruturas de dados adequadas (registros, matrizes, listas e grafos), aperfeiçoando e articulando saberes escolares",
+    "Tipo de conhecimento": "Tipos de dados",
+    "Objeto de conhecimento": "Programação",
+    "Explicação da habilidade": "Para encontrar uma carta do tipo Ás em um baralho, precisa-se de um baralho (lista de cartas) e, o resultado é uma carta; para calcular a média das provas dos alunos de uma turma, precisase da lista de provas dos alunos, e o resultado é um número.",
+    "Exemplos": "Para encontrar uma carta do tipo Ás em um baralho, precisa-se de um baralho (lista de cartas) e, o resultado é uma carta; para calcular a média das provas dos alunos de uma turma, precisa-se da lista de provas dos alunos, e o resultado é um número."
+  },
+  {
+    "Id": "2",
+    "Eixo": "Pensamento Computacional",
+    "CódigoHabilidade": "EF69CO02",
+    "Habilidade": "Elaborar algoritmos que envolvam instruções sequenciais, de repetição e de seleção usando uma linguagem de programação.",
+    "Objetivo da habilidade": "Construir e analisar soluções computacionais de problemas de diferentes áreas do conhecimento, de forma individual ou colaborativa, selecionando as estruturas de dados adequadas (registros, matrizes, listas e grafos), aperfeiçoando e articulando saberes escolares",
+    "Tipo de conhecimento": "Linguagem de Programação",
+    "Objeto de conhecimento": "Programação",
+    "Explicação da habilidade": "Existem diferentes linguagens de programação que podem ser usadas para descrever algoritmos em diferentes níveis de abstração, como linguagens visuais, orientadas a objetos, funcionais, entre outras. Uma ou mais linguagens podem ser escolhidas para serem adotadas.",
+    "Exemplos": "Calcular a média de notas de uma turma em uma dada disciplina e informar se o resultado está acima da média do colégio."
+  },
+  {
+    "Id": "3",
+    "Eixo": "Pensamento Computacional",
+    "CódigoHabilidade": "EF69CO03",
+    "Habilidade": "Descrever com precisão a solução de um problema, construindo o programa que implementa a solução descrita.",
+    "Objetivo da habilidade": "Construir e analisar soluções computacionais de problemas de diferentes áreas do conhecimento, de forma individual ou colaborativa, selecionando as estruturas de dados adequadas (registros, matrizes, listas e grafos), aperfeiçoando e articulando saberes escolares",
+    "Tipo de conhecimento": "Linguagem de Programação",
+    "Objeto de conhecimento": "Programação",
+    "Explicação da habilidade": "É importante que se consiga expressar a solução do problema (algoritmo) em português, compreendendo que o programa é apenas uma descrição deste algoritmo em uma linguagem de programação. O aluno precisa entender que o mais importante é a construção do algoritmo. Notem que a ideia aqui não é apenas descrever as linhas de código em português, mas sim descrever em um alto nível de abstração como o problema é resolvido.",
+    "Exemplos": "Desenvolver um programa que: (1)\"\"Se o ponteiro do mouse tocar no animal então o animal andará 10 passos, 10 vezes seguidas.\"\"(2)\"\"Dada uma pilha de cartas, se a pilha estiver vazia, dizer que não há ás; se a primeira carta for um ás, dizer que há ás na pilha, senão, remover a primeira carta e verificar se há ás no resto da pilha.\"\""
+  },
+  {
+    "Id": "4",
+    "Eixo": "Pensamento Computacional",
+    "CódigoHabilidade": "EF69CO04",
+    "Habilidade": "Construir soluções de problemas usando a técnica de decomposição e automatizar tais soluções usando uma linguagem de programação",
+    "Objetivo da habilidade": "Empregar diferentes estratégias da Computação (decomposição, generalização e reúso) para construir a solução de problemas.",
+    "Tipo de conhecimento": "Decomposição",
+    "Objeto de conhecimento": "Estratégias de solução de problemas",
+    "Explicação da habilidade": "Decomposição é uma das principais técnicas de resolução de problemas, onde um problema é dividido em subproblemas, os quais são resolvidos independentemente, e cujas soluções são combinadas para construir a solução do problema original. Algumas vantagens da decomposição são: permitir uma melhor organização e visualização do problema e da solução; facilitar o trabalho em grupo; permitir que possamos reutilizar as soluções dos subproblemas em outros problemas.",
+    "Exemplos": "Decompor o problema de desenhar imagens em subproblemas de desenhar formas básicas, compondo as subsoluções por meio de operações sobre imagens (sobrepor, posicionar ao lado, etc.). Decompor o problema de desenhar uma casa em subproblemas de desenhar polígonos regulares (retângulos, quadrados, triângulos), compondo essas formas com as operações sobre imagens (rotação, sobreposição etc.)."
+  },
+  {
+    "Id": "5",
+    "Eixo": "Pensamento Computacional",
+    "CódigoHabilidade": "EF69CO05",
+    "Habilidade": "Identificar os recursos ou insumos necessários (entradas) para a resolução de problemas, bem como os resultados esperados (saídas), determinando os respectivos tipos de dados, e estabelecendo a definição de problema como uma relação entre entrada e saída.",
+    "Objetivo da habilidade": "Empregar diferentes estratégias da Computação (decomposição, generalização e reúso) para construir a solução de problemas.",
+    "Tipo de conhecimento": "Generalização",
+    "Objeto de conhecimento": "Estratégias de solução de problemas",
+    "Explicação da habilidade": "Definir problemas é uma habilidade muito importante, pois é o primeiro passo da solução. A definição de um problema se dá identificando quais são os tipos de entradas necessárias (insumos/informações) e qual o tipo da saída. Como a solução (algoritmo) deve ser genérica, se define um problema em termos dos tipos das entradas e saída. O objetivo aqui NÃO é propor soluções de problemas, e sim definir o que é necessário para resolvê-los e qual será o resultado esperado.",
+    "Exemplos": "Para encontrar um Ás em um baralho, precisa-se de um baralho (lista de cartas) e, o resultado é uma carta; para calcular a média das provas dos alunos de uma turma, precisa-se da lista de provas dos alunos, e o resultado é um número."
+  },
+  {
+    "Id": "6",
+    "Eixo": "Pensamento Computacional",
+    "CódigoHabilidade": "EF69CO06",
+    "Habilidade": "Comparar diferentes casos particulares (instâncias) de um mesmo problema, identificando as semelhanças e diferenças entre eles, e criar um algoritmo para resolver todos, fazendo uso de variáveis (parâmetros) para permitir o tratamento de todos os casos de forma genérica.",
+    "Objetivo da habilidade": "Empregar diferentes estratégias da Computação (decomposição, generalização e reúso) para construir a solução de problemas.",
+    "Tipo de conhecimento": "Generalização",
+    "Objeto de conhecimento": "Estratégias de solução de problemas",
+    "Explicação da habilidade": "Idealmente, um algoritmo é uma solução genérica: ele resolve várias instâncias de um problema. Por exemplo, um algoritmo que calcula a média aritmética de 2 números resolve este problema para qualquer par de números (que são as instâncias do problema). Para descrever um algoritmo de forma genérica, é necessário dar nomes às entradas do algoritmo. Esses nomes são chamados de variáveis ou parâmetros do algoritmo.",
+    "Exemplos": "Comparar diferentes instâncias do problema de calcular a área de um retângulo, identificando que o que varia entre elas são as medidas da base e da altura e, por fim, criar um algoritmo para calcular a área de qualquer retângulo."
+  },
+  {
+    "Id": "7",
+    "Eixo": "Mundo Digital",
+    "CódigoHabilidade": "EF69CO07",
+    "Habilidade": "Entender o processo de transmissão de dados, como a informação é quebrada em pedaços, transmitida em pacotes através de múltiplos equipamentos, e reconstruída no destino.",
+    "Objetivo da habilidade": "Entender como os dados são armazenados, processados e transmitidos usando dispositivos computacionais, considerando aspectos da segurança cibernética.",
+    "Tipo de conhecimento": "Fundamentos de transmissão de dados",
+    "Objeto de conhecimento": "Armazenamento e Transmissão de dados",
+    "Explicação da habilidade": "O processo de transmissão de dados envolve em dividir a informação em pedaços para que ela seja mais facilmente enviada através da rede de comunicação. Esses pedaços são transmitidos através de caminhos compostos por diferentes equipamentos. Finalmente, a informação é remontada no destino. Ao ser dividida, problemas que ocorram na transmissão em alguns pedaços da informação, podem ser solucionados pelo reenvio de pedaços faltantes, corrompidos, ou fora de ordem.",
+    "Exemplos": "Utilizar os alunos como eles fossem equipamentos de transmissão, passar uma frase em pedaços de papel e orientar alguns deles inicialmente a entregarem sempre seu pedaço de papel e em um segundo momento a não entregar o pedaço. Depois pode ser avaliado como a mensagem chega no destino nestas diferentes condições."
+  },
+  {
+    "Id": "8",
+    "Eixo": "Mundo Digital",
+    "CódigoHabilidade": "EF69CO08",
+    "Habilidade": "Compreender e utilizar diferentes formas de armazenar, manipular, compactar e recuperar arquivos, documentos e metadados",
+    "Objetivo da habilidade": "Entender como os dados são armazenados, processados e transmitidos usando dispositivos computacionais, considerando aspectos da segurança cibernética.",
+    "Tipo de conhecimento": "Gestão de dados",
+    "Objeto de conhecimento": "Armazenamento e Transmissão de dados",
+    "Explicação da habilidade": "O gerenciamento de dados é frequentemente realizado através do conceito de arquivo. Neste contexto, os arquivos são criados considerando alguma lógica interna e armazenados em memória secundária. Posteriormente, esses arquivos podem ser recarregados a fim de seus dados serem utilizados ou mesmo editados. Finalmente, os arquivos podem ser compactados para diminuir o espaço ocupado na memória secundária.",
+    "Exemplos": "Utilizar um arquivo físico para simular um sistema de arquivos e realizar ações de manipulações das diversas pastas, realizando analogias com os arquivos."
+  },
+  {
+    "Id": "9",
+    "Eixo": "Mundo Digital",
+    "CódigoHabilidade": "EF69CO09",
+    "Habilidade": "Compreender os conceitos de paralelismo, concorrência e armazenamento/ processamento distribuídos.",
+    "Objetivo da habilidade": "Entender os fundamentos de sistemas distribuídos e da internet.",
+    "Tipo de conhecimento": "Fundamentos de sistemas distribuídos",
+    "Objeto de conhecimento": "Sistemas distribuídos e internet",
+    "Explicação da habilidade": "O aluno deve compreender que o paralelismo permite a utilização de diferentes recursos para executar partes de uma tarefa que podem ser realizadas simultaneamente. Paralelismo ocorre quando mais de uma tarefa é executada ao mesmo tempo. Normalmente, se usa paralelismo para melhorar o tempo de execução de uma solução, mas também para que o processo possa ser executado por várias pessoas trabalhando concomitantemente. Para construir uma solução usando paralelismo, deve-se identificar quais partes da solução são independentes, podendo ser executadas simultaneamente. Pode-se também replicar a mesma tarefa para otimizar a execução.",
+    "Exemplos": "A partir da especificação de um sistema web não implementado ou real, os estudantes podem analisar quais as funcionalidades que dependem de concorrência ou armazenamento distribuídos. A própria Internet é considerada um sistema distribuído, além de Aplicações e serviços baseados na Computação em Nuvem."
+  },
+  {
+    "Id": "10",
+    "Eixo": "Mundo Digital",
+    "CódigoHabilidade": "EF69CO10",
+    "Habilidade": "Entender como é a estrutura e funcionamento da internet.",
+    "Objetivo da habilidade": "Entender os fundamentos de sistemas distribuídos e da internet.",
+    "Tipo de conhecimento": "Internet",
+    "Objeto de conhecimento": "Sistemas distribuídos e internet",
+    "Explicação da habilidade": "A internet é uma rede composta por muitas redes, as quais compartilham o protocolo Internet. Essas redes são agrupadas em sistemas autônomos, conjuntos de redes que possuem uma política de operação comum. A definição desses sistemas autônomos é realizada por entidades que operam na organização dos recursos da Internet.",
+    "Exemplos": "Usar a lógica de um modelo em camadas e mostrar como uma língua comum pode ser utilizada para traduzir comunicações entre 2 línguas que não possuem tradutores (ex: tradutores português-inglês e inglêsespanhol -> português-espanhol)."
+  },
+  {
+    "Id": "11",
+    "Eixo": "Cultura Digital",
+    "CódigoHabilidade": "EF69CO11",
+    "Habilidade": "Apresentar conduta e linguagem apropriadas ao se comunicar em ambiente digital, considerando a ética e o respeito.",
+    "Objetivo da habilidade": "Entender que as tecnologias devem ser utilizadas de maneira segura, ética e responsável, respeitando direitos autorais, de imagem e as leis vigentes.",
+    "Tipo de conhecimento": "Tecnologia digital e sociedade",
+    "Objeto de conhecimento": "Segurança e responsabilidade no uso da tecnologia",
+    "Explicação da habilidade": "Nesta habilidade é importante destacar as formas de comunicação na internet, em fóruns, em sites, em redes sociais, considerando a empatia, os direitos e deveres, as leis como o marco civil. Importante que o aluno possa refletir sobre as consequências de sua conduta online.",
+    "Exemplos": "Como exemplo o professor poderá organizar um “Escape Room”, em que são apresentadas situações de condutas inapropriadas em ambiente digital, e os alunos precisam criar saídas baseadas na ética e mudanças nas atitudes para conseguir escapar da sala."
+  },
+  {
+    "Id": "12",
+    "Eixo": "Cultura Digital",
+    "CódigoHabilidade": "EF69CO12",
+    "Habilidade": "Analisar o consumo de tecnologia na sociedade, compreendendo criticamente o caminho da produção dos recursos bem como aspectos ligados à obsolescência e a sustentabilidade.",
+    "Objetivo da habilidade": "Selecionar e utilizar tecnologias computacionais para se expressar e resolver problemas, analisando criticamente os diferentes impactos na sociedade.",
+    "Tipo de conhecimento": "Tecnologia digital e sustentabilidade",
+    "Objeto de conhecimento": "Uso de tecnologias computacionais",
+    "Explicação da habilidade": "Importante aqui o aluno identificar e refletir sobre o caminho e impactos em que a produção da tecnologia tem em nossa sociedade. Assim, espera-se que o aluno reconheça a cadeia de produção da tecnologia, seus usos no cotidiano do ser humano e os impactos no meio ambiente.",
+    "Exemplos": "O professor poderá elaborar um jogo que demonstre os caminhos da tecnologia, sua produção e seu descarte, considerando tomadas de decisão pelo aluno do que fazer durante o jogo"
+  }
+]
