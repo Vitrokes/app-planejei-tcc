@@ -6,8 +6,6 @@
 
 Protótipo funcional de uma aplicação web desenvolvido como Trabalho de Conclusão de Curso (TCC). O "Planejei" é um Recurso Educacional Aberto (REA) que atua como um assistente de planejamento de aulas, projetado para potencializar a autonomia docente e facilitar a integração da Base Nacional Comum Curricular (BNCC), incluindo as novas diretrizes de Computação.
 
-![Screenshot do Dashboard do Planejei](./public/screenshot-dashboard.png)
-
 ## 🎯 Objetivo do Projeto
 
 A ferramenta foi concebida para ser um contraponto aos sistemas que oferecem planos de aula prontos. O "Planejei" estrutura o processo de criação e guia o professor, mas mantém o docente como autoridade e protagonista do seu planejamento, permitindo a adaptação à realidade de cada turma e fomentando a criatividade no contexto da educação digital.
